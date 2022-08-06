@@ -21,7 +21,8 @@ rgb led, two 220k ohm resistors, jumper wires and a breadboard.
 
 ### Executing program
 
-* Connect the components and connect the arduino microcontroller to your computer
+* Connect the components as seen in the diagram and pictures
+* Connect the arduino microcontroller to your computer
 * Open the .ino code and press the upload button
 * Then open the .pde code and press the run button
 
