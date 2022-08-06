@@ -26,6 +26,10 @@ rgb led, two 220k ohm resistors, jumper wires and a breadboard.
 * Open the .ino code and press the upload button
 * Then open the .pde code and press the run button
 
+### Photos of Build
+![20220806_150752](https://user-images.githubusercontent.com/93748287/183267618-b903ee41-e5c3-44de-a04b-b3e2b8a71b30.jpg)
+![20220806_150817](https://user-images.githubusercontent.com/93748287/183267623-39e5a8ca-ff23-4d10-8346-855357c791f5.jpg)
+
 ## Authors
 
 Vishal Thilak
