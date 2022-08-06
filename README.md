@@ -26,6 +26,9 @@ rgb led, two 220k ohm resistors, jumper wires and a breadboard.
 * Open the .ino code and press the upload button
 * Then open the .pde code and press the run button
 
+### Photo of radar graph
+![Screenshot (158)](https://user-images.githubusercontent.com/93748287/183268054-d4292dea-c089-4988-a8b8-5b8fd38cb6d0.png)
+
 ### Photos of Build
 ![20220806_150752](https://user-images.githubusercontent.com/93748287/183267618-b903ee41-e5c3-44de-a04b-b3e2b8a71b30.jpg)
 ![20220806_150817](https://user-images.githubusercontent.com/93748287/183267623-39e5a8ca-ff23-4d10-8346-855357c791f5.jpg)
